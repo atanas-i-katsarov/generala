@@ -1,0 +1,2 @@
+# generala
+Android dice game
